@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
 </p>
 
-<h4 align="center"> Use IDE </h4>
+<h4 align="center"> In Use IDE </h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Visual-Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white"/></a>&nbsp
